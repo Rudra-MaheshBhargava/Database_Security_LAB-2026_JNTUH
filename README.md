@@ -1,4 +1,4 @@
-# Database Security Lab – JNTUH
+# Database Security Lab 2026 – JNTUH
 
 **M.Tech | Cyber Forensics and Information Security**
 
